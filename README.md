@@ -1,1 +1,1 @@
-# SQL1
+Premiers exercice de SQL
